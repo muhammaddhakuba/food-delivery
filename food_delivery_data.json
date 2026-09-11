@@ -3,7 +3,7 @@
         {
             "order_id": "ORD0001",
             "customer": "CYBERTRIN",
-            "phone": "0772590517",
+            "phone": "REDACTED",
             "distance_km": 3000.0,
             "items": [
                 {
@@ -25,7 +25,7 @@
         {
             "order_id": "ORD0002",
             "customer": "CYBERTRIN",
-            "phone": "0772590517",
+            "phone": "REDACTED",
             "distance_km": 700.0,
             "items": [
                 {
@@ -48,7 +48,7 @@
         {
             "order_id": "ORD0003",
             "customer": "cybertrin",
-            "phone": "077777",
+            "phone": "REDACTED",
             "distance_km": 3000.0,
             "items": [
                 {
@@ -70,7 +70,7 @@
         {
             "order_id": "ORD0004",
             "customer": "ROBERT",
-            "phone": "0748006291",
+            "phone": "REDACTED",
             "distance_km": 3000.0,
             "items": [
                 {
